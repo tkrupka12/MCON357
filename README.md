@@ -30,3 +30,4 @@ Welcome to your first GitHub repository!
 
 Created for MCON357 course.
 
+\n## Flask app\n\nRun the web server (Windows):\n\n``\n.\\.venv\\Scripts\\python src\\app.py\n``\n\nThen open http://127.0.0.1:5000\n
