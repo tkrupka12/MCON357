@@ -1,0 +1,12 @@
+# Hello World
+
+A minimal Python hello world.
+
+## Run
+
+`ash
+python hello.py
+`
+"@ | Out-File -Encoding UTF8 README.md; @"__pycache__/
+*.pyc
+.venv/
