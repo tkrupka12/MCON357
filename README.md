@@ -1,4 +1,4 @@
-# Hello World Project
+﻿# Hello World Project
 
 This is a simple Hello World project created for MCON357.
 
@@ -15,7 +15,7 @@ A basic Python program that prints "Hello, World!" to the console.
 1. Make sure you have Python installed on your system
 2. Run the script using:
    ```bash
-   python hello.py
+   python src/hello.py
    ```
 
 ## Output
@@ -29,3 +29,4 @@ Welcome to your first GitHub repository!
 ## Author
 
 Created for MCON357 course.
+
